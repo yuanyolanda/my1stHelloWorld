@@ -15,7 +15,8 @@ class _ndVCViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         
-        self.view.backgroundColor = UIColor.blue
+        self.view.backgroundColor = UIColor.brown
+        
         
     }
 
